@@ -1,116 +1,126 @@
-,Unnamed: 0,Satellite Name,Launch Date,Launch Site
-0,44912,COSMOS 2491 DEB,25 December 2013 00:31,"Plesetsk, Russia"
-1,44913,COSMOS 2491 DEB,25 December 2013 00:31,"Plesetsk, Russia"
-2,44810,FLOCK 4P 12,27 November 2019 03:58,"Satish Dhawan Space Centre (SHAR), India"
-3,44811,FLOCK 4P 4,27 November 2019 03:58,"Satish Dhawan Space Centre (SHAR), India"
-4,44812,FLOCK 4P 3,27 November 2019 03:58,"Satish Dhawan Space Centre (SHAR), India"
-5,44814,FLOCK 4P 1,27 November 2019 03:58,"Satish Dhawan Space Centre (SHAR), India"
-6,44815,FLOCK 4P 8,27 November 2019 03:58,"Satish Dhawan Space Centre (SHAR), India"
-7,44816,FLOCK 4P 7,27 November 2019 03:58,"Satish Dhawan Space Centre (SHAR), India"
-8,44817,FLOCK 4P 6,27 November 2019 03:58,"Satish Dhawan Space Centre (SHAR), India"
-9,44818,FLOCK 4P 5,27 November 2019 03:58,"Satish Dhawan Space Centre (SHAR), India"
-10,44819,GAOFEN 12,27 November 2019 23:52,"Taiyuan Space Launch Center, China"
-11,44820,CZ-4C R/B,27 November 2019 23:52,"Taiyuan Space Launch Center, China"
-12,44821,DRAGON CRS-19,05 December 2019 17:29,"Cape Canaveral Air Force Station, United States"
-13,44822,DRAGON CRS-19 DEB,05 December 2019 17:29,"Cape Canaveral Air Force Station, United States"
-14,44823,DRAGON CRS-19 DEB,05 December 2019 17:29,"Cape Canaveral Air Force Station, United States"
-15,44824,ALE-2,06 December 2019 08:18,Electron
-16,44825,ELECTRON KICK STAGE R/B,06 December 2019 08:18,Electron
-17,44826,ELECTRON R/B,06 December 2019 08:18,Electron
-18,44827,NOOR 1A,06 December 2019 08:18,Electron
-19,44828,NOOR 1B,06 December 2019 08:18,Electron
-20,44829,FOSSASAT-1,06 December 2019 08:18,Electron
-21,44830,TRSI,06 December 2019 08:18,Electron
-22,44831,ATL-1,06 December 2019 08:18,Electron
-23,44832,SMOG-P,06 December 2019 08:18,Electron
-24,44833,PROGRESS MS-13,06 December 2019 09:34,"Baikonur Cosmodrome, Kazakhstan"
-25,44834,SL-4 R/B,06 December 2019 09:34,"Baikonur Cosmodrome, Kazakhstan"
-26,44835,COSMOS 2543,25 November 2019 17:52,"Plesetsk, Russia"
-27,44836,JILIN-01 GAOFEN 2B,07 December 2019 02:55,"Taiyuan Space Launch Center, China"
-28,44837,KZ-1A R/B,07 December 2019 02:55,"Taiyuan Space Launch Center, China"
-29,44838,OBJECT A,07 December 2019 08:52,"Taiyuan Space Launch Center, China"
-30,44839,OBJECT B,07 December 2019 08:52,"Taiyuan Space Launch Center, China"
-31,44840,OBJECT C,07 December 2019 08:52,"Taiyuan Space Launch Center, China"
-32,44841,OBJECT D,07 December 2019 08:52,"Taiyuan Space Launch Center, China"
-33,44842,OBJECT E,07 December 2019 08:52,"Taiyuan Space Launch Center, China"
-34,44843,OBJECT F,07 December 2019 08:52,"Taiyuan Space Launch Center, China"
-35,44844,KZ-1A R/B,07 December 2019 08:52,"Taiyuan Space Launch Center, China"
-36,44845,ATLAS 5 CENTAUR DEB,17 September 2014 00:10,"Cape Canaveral Air Force Station, United States"
-37,44846,ATLAS 5 CENTAUR DEB,17 September 2014 00:10,"Cape Canaveral Air Force Station, United States"
-38,44847,ATLAS 5 CENTAUR DEB,17 September 2014 00:10,"Cape Canaveral Air Force Station, United States"
-39,44848,ATLAS 5 CENTAUR DEB,17 September 2014 00:10,"Cape Canaveral Air Force Station, United States"
-40,44849,ATLAS 5 CENTAUR R/B DEB,17 September 2014 00:10,"Cape Canaveral Air Force Station, United States"
-41,44850,COSMOS 2543 (GLONASS,11 December 2019 08:54,"Plesetsk, Russia"
-42,44851,FREGAT R/B,11 December 2019 08:54,"Plesetsk, Russia"
-43,44852,TYVAK-0092,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India"
-44,44853,Tyvak-0129,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India"
-45,44854,OBJECT C,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India"
-46,44855,LEMUR 2 JPGSQUARED,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India"
-47,44856,QPS-SAR-1 IZANAGI,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India"
-48,44857,RISAT-2BR1,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India"
-49,44858,OBJECT G,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India"
-50,44859,IHOPSAT-TD,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India"
-51,44860,LEMUR 2 HIMOMANDDAD,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India"
-52,44861,LEMUR 2 PAPPY,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India"
-53,44862,PSLV R/B,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India"
-54,44863,LEMUR 2 THEODOSIA,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India"
-55,44864,BEIDOU 3M19,16 December 2019 07:22,"Xichang Satellite Launch Center, China"
-56,44865,BEIDOU 3M20,16 December 2019 07:22,"Xichang Satellite Launch Center, China"
-57,44866,YZ-1 R/B,16 December 2019 07:22,"Xichang Satellite Launch Center, China"
-58,44867,CZ-3B R/B,16 December 2019 07:22,"Xichang Satellite Launch Center, China"
-59,44868,JCSAT 18,17 December 2019 00:10,"Cape Canaveral Air Force Station, United States"
-60,44869,FALCON 9 R/B,17 December 2019 00:10,"Cape Canaveral Air Force Station, United States"
-61,44870,SL-12 DEB,02 September 2010 00:53,"Baikonur Cosmodrome, Kazakhstan"
-62,44871,SL-12 DEB,02 September 2010 00:53,"Baikonur Cosmodrome, Kazakhstan"
-63,44872,SL-12 DEB,02 September 2010 00:53,"Baikonur Cosmodrome, Kazakhstan"
-64,44873,CSG-1,18 December 2019 08:54,"Centre Spatial Guyanais , French Guiana"
-65,44874,CHEOPS,18 December 2019 08:54,"Centre Spatial Guyanais , French Guiana"
-66,44875,ASAP -S,18 December 2019 08:54,"Centre Spatial Guyanais , French Guiana"
-67,44876,ANGELS,18 December 2019 08:54,"Centre Spatial Guyanais , French Guiana"
-68,44877,EYESAT-NANO,18 December 2019 08:54,"Centre Spatial Guyanais , French Guiana"
-69,44878,OPS-SAT,18 December 2019 08:54,"Centre Spatial Guyanais , French Guiana"
-70,44879,OBJECT A,20 December 2019 03:22,"Taiyuan Space Launch Center, China"
-71,44880,OBJECT B,20 December 2019 03:22,"Taiyuan Space Launch Center, China"
-72,44881,OBJECT C,20 December 2019 03:22,"Taiyuan Space Launch Center, China"
-73,44882,OBJECT D,20 December 2019 03:22,"Taiyuan Space Launch Center, China"
-74,44883,CBERS 4A,20 December 2019 03:22,"Taiyuan Space Launch Center, China"
-75,44884,OBJECT F,20 December 2019 03:22,"Taiyuan Space Launch Center, China"
-76,44885,OBJECT G,20 December 2019 03:22,"Taiyuan Space Launch Center, China"
-77,44886,OBJECT H,20 December 2019 03:22,"Taiyuan Space Launch Center, China"
-78,44887,OBJECT J,20 December 2019 03:22,"Taiyuan Space Launch Center, China"
-79,44888,CZ-4B R/B,20 December 2019 03:22,"Taiyuan Space Launch Center, China"
-80,44889,OBJECT L,20 December 2019 03:22,"Taiyuan Space Launch Center, China"
-81,44890,OBJECT M,20 December 2019 03:22,"Taiyuan Space Launch Center, China"
-82,44891,OBJECT N,20 December 2019 03:22,"Taiyuan Space Launch Center, China"
-83,44892,SL-12 DEB,01 March 2010 21:19,"Baikonur Cosmodrome, Kazakhstan"
-84,44893,ATLAS 5 CENTAUR DEB,17 September 2014 00:10,"Cape Canaveral Air Force Station, United States"
-85,44894,ATLAS 5 CENTAUR DEB,17 September 2014 00:10,"Cape Canaveral Air Force Station, United States"
-86,44895,ATLAS 5 CENTAUR DEB,17 October 2018 04:15,"Cape Canaveral Air Force Station, United States"
-87,44896,ATLAS 5 CENTAUR DEB,17 October 2018 04:15,"Cape Canaveral Air Force Station, United States"
-88,44897,ATLAS 5 CENTAUR DEB,17 October 2018 04:15,"Cape Canaveral Air Force Station, United States"
-89,44898,ATLAS 5 CENTAUR DEB,17 October 2018 04:15,"Cape Canaveral Air Force Station, United States"
-90,44899,ATLAS 5 CENTAUR DEB,17 October 2018 04:15,"Cape Canaveral Air Force Station, United States"
-91,44900,CST-100 STARLINER,20 December 2019 11:36,"Cape Canaveral Air Force Station, United States"
-92,44901,SJ-7 DEB,05 July 2005 22:40,"Jiuquan Satellite Launch Center, China"
-93,44902,SJ-7 DEB,05 July 2005 22:40,"Jiuquan Satellite Launch Center, China"
-94,44903,ELEKTRO-L 3,24 December 2019 12:03,"Baikonur Cosmodrome, Kazakhstan"
-95,44904,BLOCK DM-SL R/B,24 December 2019 12:03,"Baikonur Cosmodrome, Kazakhstan"
-96,44905,GONETS M 14 (M26),26 December 2019 23:11,"Plesetsk, Russia"
-97,44906,GONETS M 15 (M27),26 December 2019 23:11,"Plesetsk, Russia"
-98,44907,GONETS M 16 (M28),26 December 2019 23:11,"Plesetsk, Russia"
-99,44908,OBJECT D,26 December 2019 23:11,"Plesetsk, Russia"
-100,44909,RS-44,26 December 2019 23:11,Amateur radio 
-101,44912,COSMOS 2491 DEB,25 December 2013 00:31,"Plesetsk, Russia"
-102,44913,COSMOS 2491 DEB,25 December 2013 00:31,"Plesetsk, Russia"
-103,44900,CST-100 STARLINER,20 December 2019 11:36,"Cape Canaveral Air Force Station, United States"
-104,44901,SJ-7 DEB,05 July 2005 22:40,"Jiuquan Satellite Launch Center, China"
-105,44902,SJ-7 DEB,05 July 2005 22:40,"Jiuquan Satellite Launch Center, China"
-106,44903,ELEKTRO-L 3,24 December 2019 12:03,"Baikonur Cosmodrome, Kazakhstan"
-107,44904,BLOCK DM-SL R/B,24 December 2019 12:03,"Baikonur Cosmodrome, Kazakhstan"
-108,44905,GONETS M 14 (M26),26 December 2019 23:11,"Plesetsk, Russia"
-109,44906,GONETS M 15 (M27),26 December 2019 23:11,"Plesetsk, Russia"
-110,44907,GONETS M 16 (M28),26 December 2019 23:11,"Plesetsk, Russia"
-111,44908,OBJECT D,26 December 2019 23:11,"Plesetsk, Russia"
-112,44909,RS-44,26 December 2019 23:11,Amateur radio 
-113,44912,COSMOS 2491 DEB,25 December 2013 00:31,"Plesetsk, Russia"
-114,44913,COSMOS 2491 DEB,25 December 2013 00:31,"Plesetsk, Russia"
+,Satellite Name,Launch Date,Launch Site,lat,lon
+0,COSMOS 2491 DEB,25 December 2013 00:31,"Plesetsk, Russia",62.927544999999995,40.575023
+1,COSMOS 2491 DEB,25 December 2013 00:31,"Plesetsk, Russia",62.927544999999995,40.575023
+2,COSMOS 2543,25 November 2019 17:52,"Plesetsk, Russia",62.927544999999995,40.575023
+3,COSMOS 2543 (GLONASS,11 December 2019 08:54,"Plesetsk, Russia",62.927544999999995,40.575023
+4,FREGAT R/B,11 December 2019 08:54,"Plesetsk, Russia",62.927544999999995,40.575023
+5,GONETS M 14 (M26),26 December 2019 23:11,"Plesetsk, Russia",62.927544999999995,40.575023
+6,GONETS M 15 (M27),26 December 2019 23:11,"Plesetsk, Russia",62.927544999999995,40.575023
+7,GONETS M 16 (M28),26 December 2019 23:11,"Plesetsk, Russia",62.927544999999995,40.575023
+8,OBJECT D,26 December 2019 23:11,"Plesetsk, Russia",62.927544999999995,40.575023
+9,COSMOS 2491 DEB,25 December 2013 00:31,"Plesetsk, Russia",62.927544999999995,40.575023
+10,COSMOS 2491 DEB,25 December 2013 00:31,"Plesetsk, Russia",62.927544999999995,40.575023
+11,GONETS M 14 (M26),26 December 2019 23:11,"Plesetsk, Russia",62.927544999999995,40.575023
+12,GONETS M 15 (M27),26 December 2019 23:11,"Plesetsk, Russia",62.927544999999995,40.575023
+13,GONETS M 16 (M28),26 December 2019 23:11,"Plesetsk, Russia",62.927544999999995,40.575023
+14,OBJECT D,26 December 2019 23:11,"Plesetsk, Russia",62.927544999999995,40.575023
+15,COSMOS 2491 DEB,25 December 2013 00:31,"Plesetsk, Russia",62.927544999999995,40.575023
+16,COSMOS 2491 DEB,25 December 2013 00:31,"Plesetsk, Russia",62.927544999999995,40.575023
+17,FLOCK 4P 12,27 November 2019 03:58,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+18,FLOCK 4P 4,27 November 2019 03:58,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+19,FLOCK 4P 3,27 November 2019 03:58,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+20,FLOCK 4P 1,27 November 2019 03:58,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+21,FLOCK 4P 8,27 November 2019 03:58,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+22,FLOCK 4P 7,27 November 2019 03:58,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+23,FLOCK 4P 6,27 November 2019 03:58,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+24,FLOCK 4P 5,27 November 2019 03:58,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+25,TYVAK-0092,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+26,Tyvak-0129,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+27,OBJECT C,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+28,LEMUR 2 JPGSQUARED,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+29,QPS-SAR-1 IZANAGI,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+30,RISAT-2BR1,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+31,OBJECT G,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+32,IHOPSAT-TD,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+33,LEMUR 2 HIMOMANDDAD,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+34,LEMUR 2 PAPPY,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+35,PSLV R/B,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+36,LEMUR 2 THEODOSIA,11 December 2019 09:55,"Satish Dhawan Space Centre (SHAR), India",13.733270999999998,80.23444599999999
+37,GAOFEN 12,27 November 2019 23:52,"Taiyuan Space Launch Center, China",38.84883,111.60818
+38,CZ-4C R/B,27 November 2019 23:52,"Taiyuan Space Launch Center, China",38.84883,111.60818
+39,JILIN-01 GAOFEN 2B,07 December 2019 02:55,"Taiyuan Space Launch Center, China",38.84883,111.60818
+40,KZ-1A R/B,07 December 2019 02:55,"Taiyuan Space Launch Center, China",38.84883,111.60818
+41,OBJECT A,07 December 2019 08:52,"Taiyuan Space Launch Center, China",38.84883,111.60818
+42,OBJECT B,07 December 2019 08:52,"Taiyuan Space Launch Center, China",38.84883,111.60818
+43,OBJECT C,07 December 2019 08:52,"Taiyuan Space Launch Center, China",38.84883,111.60818
+44,OBJECT D,07 December 2019 08:52,"Taiyuan Space Launch Center, China",38.84883,111.60818
+45,OBJECT E,07 December 2019 08:52,"Taiyuan Space Launch Center, China",38.84883,111.60818
+46,OBJECT F,07 December 2019 08:52,"Taiyuan Space Launch Center, China",38.84883,111.60818
+47,KZ-1A R/B,07 December 2019 08:52,"Taiyuan Space Launch Center, China",38.84883,111.60818
+48,OBJECT A,20 December 2019 03:22,"Taiyuan Space Launch Center, China",38.84883,111.60818
+49,OBJECT B,20 December 2019 03:22,"Taiyuan Space Launch Center, China",38.84883,111.60818
+50,OBJECT C,20 December 2019 03:22,"Taiyuan Space Launch Center, China",38.84883,111.60818
+51,OBJECT D,20 December 2019 03:22,"Taiyuan Space Launch Center, China",38.84883,111.60818
+52,CBERS 4A,20 December 2019 03:22,"Taiyuan Space Launch Center, China",38.84883,111.60818
+53,OBJECT F,20 December 2019 03:22,"Taiyuan Space Launch Center, China",38.84883,111.60818
+54,OBJECT G,20 December 2019 03:22,"Taiyuan Space Launch Center, China",38.84883,111.60818
+55,OBJECT H,20 December 2019 03:22,"Taiyuan Space Launch Center, China",38.84883,111.60818
+56,OBJECT J,20 December 2019 03:22,"Taiyuan Space Launch Center, China",38.84883,111.60818
+57,CZ-4B R/B,20 December 2019 03:22,"Taiyuan Space Launch Center, China",38.84883,111.60818
+58,OBJECT L,20 December 2019 03:22,"Taiyuan Space Launch Center, China",38.84883,111.60818
+59,OBJECT M,20 December 2019 03:22,"Taiyuan Space Launch Center, China",38.84883,111.60818
+60,OBJECT N,20 December 2019 03:22,"Taiyuan Space Launch Center, China",38.84883,111.60818
+61,DRAGON CRS-19,05 December 2019 17:29,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+62,DRAGON CRS-19 DEB,05 December 2019 17:29,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+63,DRAGON CRS-19 DEB,05 December 2019 17:29,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+64,ATLAS 5 CENTAUR DEB,17 September 2014 00:10,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+65,ATLAS 5 CENTAUR DEB,17 September 2014 00:10,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+66,ATLAS 5 CENTAUR DEB,17 September 2014 00:10,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+67,ATLAS 5 CENTAUR DEB,17 September 2014 00:10,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+68,ATLAS 5 CENTAUR R/B DEB,17 September 2014 00:10,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+69,JCSAT 18,17 December 2019 00:10,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+70,FALCON 9 R/B,17 December 2019 00:10,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+71,ATLAS 5 CENTAUR DEB,17 September 2014 00:10,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+72,ATLAS 5 CENTAUR DEB,17 September 2014 00:10,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+73,ATLAS 5 CENTAUR DEB,17 October 2018 04:15,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+74,ATLAS 5 CENTAUR DEB,17 October 2018 04:15,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+75,ATLAS 5 CENTAUR DEB,17 October 2018 04:15,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+76,ATLAS 5 CENTAUR DEB,17 October 2018 04:15,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+77,ATLAS 5 CENTAUR DEB,17 October 2018 04:15,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+78,CST-100 STARLINER,20 December 2019 11:36,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+79,CST-100 STARLINER,20 December 2019 11:36,"Cape Canaveral Air Force Station, United States",28.491981,-80.580114
+80,ALE-2,06 December 2019 08:18,Electron,-39.261579,177.864987
+81,ELECTRON KICK STAGE R/B,06 December 2019 08:18,Electron,-39.261579,177.864987
+82,ELECTRON R/B,06 December 2019 08:18,Electron,-39.261579,177.864987
+83,NOOR 1A,06 December 2019 08:18,Electron,-39.261579,177.864987
+84,NOOR 1B,06 December 2019 08:18,Electron,-39.261579,177.864987
+85,FOSSASAT-1,06 December 2019 08:18,Electron,-39.261579,177.864987
+86,TRSI,06 December 2019 08:18,Electron,-39.261579,177.864987
+87,ATL-1,06 December 2019 08:18,Electron,-39.261579,177.864987
+88,SMOG-P,06 December 2019 08:18,Electron,-39.261579,177.864987
+89,PROGRESS MS-13,06 December 2019 09:34,"Baikonur Cosmodrome, Kazakhstan",45.964287,63.305521999999996
+90,PROGRESS MS-13,06 December 2019 09:34,"Baikonur Cosmodrome, Kazakhstan",45.9645851,63.3030541
+91,SL-4 R/B,06 December 2019 09:34,"Baikonur Cosmodrome, Kazakhstan",45.964287,63.305521999999996
+92,SL-4 R/B,06 December 2019 09:34,"Baikonur Cosmodrome, Kazakhstan",45.9645851,63.3030541
+93,SL-12 DEB,02 September 2010 00:53,"Baikonur Cosmodrome, Kazakhstan",45.964287,63.305521999999996
+94,SL-12 DEB,02 September 2010 00:53,"Baikonur Cosmodrome, Kazakhstan",45.9645851,63.3030541
+95,SL-12 DEB,02 September 2010 00:53,"Baikonur Cosmodrome, Kazakhstan",45.964287,63.305521999999996
+96,SL-12 DEB,02 September 2010 00:53,"Baikonur Cosmodrome, Kazakhstan",45.9645851,63.3030541
+97,SL-12 DEB,02 September 2010 00:53,"Baikonur Cosmodrome, Kazakhstan",45.964287,63.305521999999996
+98,SL-12 DEB,02 September 2010 00:53,"Baikonur Cosmodrome, Kazakhstan",45.9645851,63.3030541
+99,SL-12 DEB,01 March 2010 21:19,"Baikonur Cosmodrome, Kazakhstan",45.964287,63.305521999999996
+100,SL-12 DEB,01 March 2010 21:19,"Baikonur Cosmodrome, Kazakhstan",45.9645851,63.3030541
+101,ELEKTRO-L 3,24 December 2019 12:03,"Baikonur Cosmodrome, Kazakhstan",45.964287,63.305521999999996
+102,ELEKTRO-L 3,24 December 2019 12:03,"Baikonur Cosmodrome, Kazakhstan",45.9645851,63.3030541
+103,BLOCK DM-SL R/B,24 December 2019 12:03,"Baikonur Cosmodrome, Kazakhstan",45.964287,63.305521999999996
+104,BLOCK DM-SL R/B,24 December 2019 12:03,"Baikonur Cosmodrome, Kazakhstan",45.9645851,63.3030541
+105,ELEKTRO-L 3,24 December 2019 12:03,"Baikonur Cosmodrome, Kazakhstan",45.964287,63.305521999999996
+106,ELEKTRO-L 3,24 December 2019 12:03,"Baikonur Cosmodrome, Kazakhstan",45.9645851,63.3030541
+107,BLOCK DM-SL R/B,24 December 2019 12:03,"Baikonur Cosmodrome, Kazakhstan",45.964287,63.305521999999996
+108,BLOCK DM-SL R/B,24 December 2019 12:03,"Baikonur Cosmodrome, Kazakhstan",45.9645851,63.3030541
+109,BEIDOU 3M19,16 December 2019 07:22,"Xichang Satellite Launch Center, China",27.8907315,102.24347990000001
+110,BEIDOU 3M20,16 December 2019 07:22,"Xichang Satellite Launch Center, China",27.8907315,102.24347990000001
+111,YZ-1 R/B,16 December 2019 07:22,"Xichang Satellite Launch Center, China",27.8907315,102.24347990000001
+112,CZ-3B R/B,16 December 2019 07:22,"Xichang Satellite Launch Center, China",27.8907315,102.24347990000001
+113,CSG-1,18 December 2019 08:54,"Centre Spatial Guyanais , French Guiana",4.886284799999999,-53.068969200000005
+114,CHEOPS,18 December 2019 08:54,"Centre Spatial Guyanais , French Guiana",4.886284799999999,-53.068969200000005
+115,ASAP -S,18 December 2019 08:54,"Centre Spatial Guyanais , French Guiana",4.886284799999999,-53.068969200000005
+116,ANGELS,18 December 2019 08:54,"Centre Spatial Guyanais , French Guiana",4.886284799999999,-53.068969200000005
+117,EYESAT-NANO,18 December 2019 08:54,"Centre Spatial Guyanais , French Guiana",4.886284799999999,-53.068969200000005
+118,OPS-SAT,18 December 2019 08:54,"Centre Spatial Guyanais , French Guiana",4.886284799999999,-53.068969200000005
+119,SJ-7 DEB,05 July 2005 22:40,"Jiuquan Satellite Launch Center, China",40.9845227,100.19118540000001
+120,SJ-7 DEB,05 July 2005 22:40,"Jiuquan Satellite Launch Center, China",40.9845227,100.19118540000001
+121,SJ-7 DEB,05 July 2005 22:40,"Jiuquan Satellite Launch Center, China",40.9845227,100.19118540000001
+122,SJ-7 DEB,05 July 2005 22:40,"Jiuquan Satellite Launch Center, China",40.9845227,100.19118540000001
+123,RS-44,26 December 2019 23:11,Amateur radio ,,
+124,RS-44,26 December 2019 23:11,Amateur radio ,,
